@@ -8,7 +8,6 @@
 - 🎓 I always want to learn more and I invest myself fully in what I undertake
 - 🎮 I love playing video games on my computer in my free time
 - 🙊 I love learning new languages to discover new cultures, currently learning korean
-- 📫 How to reach me: Instagram or email
 
 ### Connect with me:
 
@@ -36,6 +35,7 @@
 <br />
 
 ### 🔥 Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
