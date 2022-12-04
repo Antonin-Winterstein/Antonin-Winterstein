@@ -1,6 +1,6 @@
 ### Hi, I'm Antonin Winterstein 👋
 
-*Student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).
+*Student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).*
 
 ### Connect with me:
 
@@ -23,5 +23,9 @@
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Qt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
+
+### ⭐ GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Antonin-Winterstein&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://antoninwinterstein.com/
