@@ -1,6 +1,6 @@
 ### Hi, I'm Antonin Winterstein 👋
 
-Student in 1st year of the Master Internet of Things at University of Bourgogne-Franche Comté.
+*Student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).
 
 ### Connect with me:
 
