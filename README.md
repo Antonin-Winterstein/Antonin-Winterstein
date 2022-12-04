@@ -1,6 +1,6 @@
 ### Hi, I'm Antonin Winterstein 👋
 
-*Student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).*
+*French developer actually student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).* 🎓
 
 ### Connect with me:
 
@@ -23,6 +23,9 @@
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Qt" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" style="padding-right:10px;" />][website]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][website]
+
+<br />
+<br />
 
 ### ⭐ GitHub Stats
 
