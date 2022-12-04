@@ -7,7 +7,7 @@
 - 🌎 I have a passion for the field of the web and more particularly the development
 - 🎓 I always want to learn more and I invest myself fully in what I undertake
 - 🎮 I love playing video games on my computer in my free time
-- 🙊 I love learning new languages to discover new cultures, currently learning korean
+- 🙊 I love learning new languages to discover new cultures, I'm currently learning Korean
 
 ### Connect with me
 
