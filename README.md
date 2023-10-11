@@ -1,6 +1,6 @@
 ### Hi, I'm Antonin Winterstein! ✨🎄🎃✨
 
-*I'm a french developer actually student in 1st year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).* 👨‍🎓
+*I'm a french developer actually student in 2nd year of the Master Internet of Things at [UFR STGI of Belfort-Montbéliard](https://stgi.univ-fcomte.fr/).* 👨‍🎓
 
 **About me**
 
