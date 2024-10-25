@@ -1,6 +1,6 @@
 ### Hi, I'm Antonin Winterstein! ✨🎄🎃✨
 
-*I'm a french developer actually working for [All In Box]([https://stgi.univ-fcomte.fr/](https://app.allinbox.fr/).* 👨‍💻​
+*I'm a french developer actually working for [All In Box](https://app.allinbox.fr/).* 👨‍💻​
 
 **About me**
 
